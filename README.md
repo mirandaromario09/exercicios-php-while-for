@@ -16,4 +16,4 @@ Exercício prático utilizando as estruturas de repetição while e for em PHP.
 
 ---
 
-[Ver online](https://mirandaromario09.github.io/2-)
+[Ver online](https://mirandaromario09.github.io/exercicios-php-while-for)
